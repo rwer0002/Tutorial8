@@ -35,17 +35,16 @@ library(ggplot2)
 ```
 
 
-# Introduction
 
-In a famous paper, @BC64 introduced a family of transformations \dots
 
-```{r histogram, fig.cap="Nice histogram", message=FALSE, warning=FALSE}
-qplot(exp(rnorm(200)))
-```
+Hi this Rachitha, Lets hope there are conflicts :)
 
-Consider the logNormal data plotted in Figure \ref{fig:histogram}.
+Hello, David here. Checking 
 
-$$s^2 = \sum_{i=1}^n (x_i-\bar{x})^2$$
+
+Hello, Disha this side, nice to work with y'll. 
+
+
 
 # Hello Ppl
 
