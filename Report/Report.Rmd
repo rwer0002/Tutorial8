@@ -34,16 +34,5 @@ knitr::opts_chunk$set(echo = FALSE, cache=TRUE, messages=FALSE, warning=FALSE)
 library(ggplot2)
 ```
 
-
-# Introduction
-
-In a famous paper, @BC64 introduced a family of transformations \dots
-
-```{r histogram, fig.cap="Nice histogram", message=FALSE, warning=FALSE}
-qplot(exp(rnorm(200)))
-```
-
-Consider the logNormal data plotted in Figure \ref{fig:histogram}.
-
-$$s^2 = \sum_{i=1}^n (x_i-\bar{x})^2$$
+Hello, David here. Checking 
 
